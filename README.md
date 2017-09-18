@@ -1,3 +1,2 @@
-# google-homepage
-
-theodinproject.com
+CSS Practice
+Google homepage replication
